@@ -18,7 +18,7 @@
  
 <div id="loginMainContainer">
  
-<div id="logoBox"><img src="images/ifoods_logo.png" /></div>
+<div id="logoBox"><img src="images/hdi_logo.png" /></div>
  
 <div id="containerBox">
 		
